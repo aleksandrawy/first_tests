@@ -1,0 +1,33 @@
+1499420669960	geckodriver	INFO	Listening on 127.0.0.1:59345
+1499420672023	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499420675225	Marionette	INFO	Listening on port 59351
+1499420675753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499420737731	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1499420783664	Marionette	INFO	Ceased listening
+0.0.1:59503
+1499420748077	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499420751832	Marionette	INFO	Listening on port 59509
+1499420752290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499420784833	Marionette	INFO	Ceased listening
+0.0.1:59539
+1499420770229	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499420773542	Marionette	INFO	Listening on port 59545
+1499420774015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499420780332	Marionette	INFO	Ceased listening
+1499420798395	geckodriver	INFO	Listening on 127.0.0.1:59566
+1499420800457	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499420803732	Marionette	INFO	Listening on port 59572
+1499420804125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499420810520	Marionette	INFO	Ceased listening
+1499420914477	geckodriver	INFO	Listening on 127.0.0.1:59826
+1499420916539	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499420920102	Marionette	INFO	Listening on port 59872
+1499420920340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499420981321	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1499424241093	Marionette	INFO	Ceased listening
